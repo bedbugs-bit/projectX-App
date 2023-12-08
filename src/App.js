@@ -89,7 +89,9 @@ function App() {
       <div id="about" style={{ padding: "10em", paddingTop: "3rem" }}>
         <h2 style={h2Styles}>About</h2>
         <p style={pStyles}>
-          Welcome to our platform! We're thrilled to introduce you to our application, a product of dedication and creativity developed in response to the final exam question for the App4080 course. Our mission is to provide a simple and user-friendly platform that caters to your needs seamlessly.
+          
+          About Page, we discuss what is relevant to us and our community.
+
         </p>
       </div>
     </div>
