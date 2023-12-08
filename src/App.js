@@ -89,7 +89,9 @@ function App() {
       <div id="about" style={{ padding: "10em", paddingTop: "3rem" }}>
         <h2 style={h2Styles}>About</h2>
         <p style={pStyles}>
+          
           About Page, we discuss what is relevant to us and our community.
+
         </p>
       </div>
     </div>
