@@ -1,6 +1,57 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is the result of a collaboration between Joel and Peter.
+This repository contains the codebase for the App4080 final project. The project involves the development of a React application with specific features. The collaboration followed a distributed workflow with individual branches, fostering efficient development and collaboration.
+
+## Collaborators
+
+- Joel
+- Peter
+
+## Project Tasks Completed
+
+1. **GitHub Repository Setup:**
+
+   - Created a remote repository on GitHub to facilitate version control and collaboration.
+
+2. **File Structure Creation:**
+
+   - Established the initial file structure for the project, laying the foundation for organized development.
+
+3. **Application Development:**
+
+   - Designed and implemented the React application according to project requirements.
+
+4. **Feature Implementation:**
+
+   - Integrated the specified features into the application, ensuring it meets the outlined criteria.
+
+5. **Distributed Workflow:**
+
+   - Created individual branches to enable a distributed workflow, allowing for parallel development on different features.
+
+6. **Documentation and Repository Management:**
+
+   - Implemented comprehensive documentation for the project to assist contributors and users.
+   - Managed the repository, including issues, pull requests, and overall project organization.
+
+7. **Conflict Resolution:**
+
+   - Effectively resolved conflicts in the project files, ensuring a smooth collaboration process.
+
+8. **Merge Requests Approval:**
+   - Reviewed and approved merge requests, ensuring the incorporation of quality code into the main branch.
+
+## How to Contribute
+
+We welcome contributions and improvements to the project. If you would like to contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature (`git checkout -b feature/YourFeatureName`).
+3. Make your changes and commit them (`git commit -m 'Description of changes'`).
+4. Push the changes to your branch (`git push origin feature/YourFeatureName`).
+5. Open a pull request with a clear description of the changes.
 
 ## Available Scripts
 
